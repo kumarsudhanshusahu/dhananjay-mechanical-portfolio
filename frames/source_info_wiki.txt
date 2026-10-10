@@ -1,0 +1,174 @@
+== Source Information ==
+
+These frames were extracted from [[File:gemini_generated_video_ad41863d.mp4]] using [https://videotojpg.com videotojpg.com].
+
+=== Suggested {{Information}} template ===
+
+<nowiki>
+{{Information
+|description=Frame extracted from [[File:gemini_generated_video_ad41863d.mp4]]
+|source={{Extracted from|gemini_generated_video_ad41863d.mp4}}
+|date={{According to Exif data}}
+|author=
+|permission=
+|other versions=
+}}
+</nowiki>
+
+=== Extracted frames ===
+
+* [[File:img_00001.jpg]] - frame at 0s
+* [[File:img_00007.jpg]] - frame at 0s200ms
+* [[File:img_00010.jpg]] - frame at 0s300ms
+* [[File:img_00014.jpg]] - frame at 0s433ms
+* [[File:img_00017.jpg]] - frame at 0s533ms
+* [[File:img_00022.jpg]] - frame at 0s700ms
+* [[File:img_00027.jpg]] - frame at 0s867ms
+* [[File:img_00030.jpg]] - frame at 0s967ms
+* [[File:img_00034.jpg]] - frame at 1s100ms
+* [[File:img_00037.jpg]] - frame at 1s200ms
+* [[File:img_00042.jpg]] - frame at 1s367ms
+* [[File:img_00046.jpg]] - frame at 1s500ms
+* [[File:img_00049.jpg]] - frame at 1s600ms
+* [[File:img_00053.jpg]] - frame at 1s733ms
+* [[File:img_00057.jpg]] - frame at 1s867ms
+* [[File:img_00061.jpg]] - frame at 2s
+* [[File:img_00067.jpg]] - frame at 2s200ms
+* [[File:img_00069.jpg]] - frame at 2s267ms
+* [[File:img_00074.jpg]] - frame at 2s433ms
+* [[File:img_00077.jpg]] - frame at 2s533ms
+* [[File:img_00082.jpg]] - frame at 2s700ms
+* [[File:img_00087.jpg]] - frame at 2s867ms
+* [[File:img_00089.jpg]] - frame at 2s933ms
+* [[File:img_00094.jpg]] - frame at 3s100ms
+* [[File:img_00097.jpg]] - frame at 3s200ms
+* [[File:img_00102.jpg]] - frame at 3s367ms
+* [[File:img_00107.jpg]] - frame at 3s533ms
+* [[File:img_00110.jpg]] - frame at 3s633ms
+* [[File:img_00113.jpg]] - frame at 3s733ms
+* [[File:img_00117.jpg]] - frame at 3s867ms
+* [[File:img_00122.jpg]] - frame at 4s33ms
+* [[File:img_00127.jpg]] - frame at 4s200ms
+* [[File:img_00129.jpg]] - frame at 4s267ms
+* [[File:img_00134.jpg]] - frame at 4s433ms
+* [[File:img_00137.jpg]] - frame at 4s533ms
+* [[File:img_00142.jpg]] - frame at 4s700ms
+* [[File:img_00147.jpg]] - frame at 4s867ms
+* [[File:img_00149.jpg]] - frame at 4s933ms
+* [[File:img_00153.jpg]] - frame at 5s67ms
+* [[File:img_00157.jpg]] - frame at 5s200ms
+* [[File:img_00162.jpg]] - frame at 5s367ms
+* [[File:img_00167.jpg]] - frame at 5s533ms
+* [[File:img_00170.jpg]] - frame at 5s633ms
+* [[File:img_00173.jpg]] - frame at 5s733ms
+* [[File:img_00177.jpg]] - frame at 5s867ms
+* [[File:img_00182.jpg]] - frame at 6s33ms
+* [[File:img_00187.jpg]] - frame at 6s200ms
+* [[File:img_00189.jpg]] - frame at 6s267ms
+* [[File:img_00194.jpg]] - frame at 6s433ms
+* [[File:img_00197.jpg]] - frame at 6s533ms
+* [[File:img_00202.jpg]] - frame at 6s700ms
+* [[File:img_00207.jpg]] - frame at 6s867ms
+* [[File:img_00209.jpg]] - frame at 6s933ms
+* [[File:img_00214.jpg]] - frame at 7s100ms
+* [[File:img_00217.jpg]] - frame at 7s200ms
+* [[File:img_00222.jpg]] - frame at 7s367ms
+* [[File:img_00227.jpg]] - frame at 7s533ms
+* [[File:img_00230.jpg]] - frame at 7s633ms
+* [[File:img_00234.jpg]] - frame at 7s767ms
+* [[File:img_00237.jpg]] - frame at 7s867ms
+* [[File:img_00242.jpg]] - frame at 8s33ms
+* [[File:img_00247.jpg]] - frame at 8s200ms
+* [[File:img_00249.jpg]] - frame at 8s267ms
+* [[File:img_00253.jpg]] - frame at 8s400ms
+* [[File:img_00257.jpg]] - frame at 8s533ms
+* [[File:img_00262.jpg]] - frame at 8s700ms
+* [[File:img_00267.jpg]] - frame at 8s867ms
+* [[File:img_00269.jpg]] - frame at 8s933ms
+* [[File:img_00273.jpg]] - frame at 9s67ms
+* [[File:img_00277.jpg]] - frame at 9s200ms
+* [[File:img_00282.jpg]] - frame at 9s367ms
+* [[File:img_00287.jpg]] - frame at 9s533ms
+* [[File:img_00290.jpg]] - frame at 9s633ms
+* [[File:img_00294.jpg]] - frame at 9s767ms
+* [[File:img_00297.jpg]] - frame at 9s867ms
+* [[File:img_00301.jpg]] - frame at 10s
+
+=== Copy-paste source lines ===
+
+[[File:gemini_generated_video_ad41863d.mp4|frame at 0s]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 0s200ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 0s300ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 0s433ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 0s533ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 0s700ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 0s867ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 0s967ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 1s100ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 1s200ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 1s367ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 1s500ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 1s600ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 1s733ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 1s867ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 2s]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 2s200ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 2s267ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 2s433ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 2s533ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 2s700ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 2s867ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 2s933ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 3s100ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 3s200ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 3s367ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 3s533ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 3s633ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 3s733ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 3s867ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 4s33ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 4s200ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 4s267ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 4s433ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 4s533ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 4s700ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 4s867ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 4s933ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 5s67ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 5s200ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 5s367ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 5s533ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 5s633ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 5s733ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 5s867ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 6s33ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 6s200ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 6s267ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 6s433ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 6s533ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 6s700ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 6s867ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 6s933ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 7s100ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 7s200ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 7s367ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 7s533ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 7s633ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 7s767ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 7s867ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 8s33ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 8s200ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 8s267ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 8s400ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 8s533ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 8s700ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 8s867ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 8s933ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 9s67ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 9s200ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 9s367ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 9s533ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 9s633ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 9s767ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 9s867ms]]
+[[File:gemini_generated_video_ad41863d.mp4|frame at 10s]]
